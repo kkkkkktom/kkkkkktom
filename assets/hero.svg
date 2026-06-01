@@ -1,0 +1,50 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glowA" x1="180" y1="40" x2="520" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F0FF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glowB" x1="980" y1="80" x2="1420" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CFFB2" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#7CFFB2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="320" y1="90" x2="1280" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F0FF"/>
+      <stop offset="0.5" stop-color="#7CFFB2"/>
+      <stop offset="1" stop-color="#F9F871"/>
+    </linearGradient>
+    <filter id="blur" x="-100" y="-100" width="1800" height="620" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle cx="310" cy="150" r="170" fill="url(#glowA)"/>
+    <circle cx="1220" cy="220" r="190" fill="url(#glowB)"/>
+  </g>
+
+  <path d="M0 335C181 287 318 244 482 264C671 287 770 382 973 368C1178 353 1354 228 1600 179" stroke="#172554" stroke-width="2" stroke-opacity="0.9"/>
+  <path d="M0 316C166 269 331 201 492 219C702 243 806 333 1001 321C1205 307 1358 190 1600 136" stroke="#1D4ED8" stroke-width="2" stroke-opacity="0.55"/>
+  <path d="M0 296C172 231 347 146 518 162C727 182 844 280 1033 270C1239 258 1385 145 1600 89" stroke="url(#stroke)" stroke-width="4" stroke-linecap="round"/>
+
+  <g opacity="0.18">
+    <rect x="94" y="75" width="1412" height="270" rx="24" stroke="#94A3B8"/>
+    <rect x="126" y="107" width="1348" height="206" rx="18" stroke="#94A3B8"/>
+  </g>
+
+  <text x="120" y="160" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="7">GITHUB PROFILE</text>
+  <text x="120" y="230" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">BUILD LOUD. SHIP BRIGHT.</text>
+  <text x="122" y="282" fill="#9FB3C8" font-family="Arial, Helvetica, sans-serif" font-size="27">Code / Design / Motion / AI / Product Energy</text>
+
+  <g>
+    <circle cx="1360" cy="110" r="7" fill="#00F0FF"/>
+    <circle cx="1392" cy="110" r="7" fill="#7CFFB2"/>
+    <circle cx="1424" cy="110" r="7" fill="#F9F871"/>
+  </g>
+</svg>
