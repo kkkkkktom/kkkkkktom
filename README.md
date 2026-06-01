@@ -1,17 +1,15 @@
 <div align="center">
-
-## `kkkkkktom/README.md`
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&height=90&lines=Myself+Jiang!;Frontend+Developer;TypeScript+Builder;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
+
+---
 
 <div align="center">
   <img src="./assets/hero.svg" alt="hero banner" width="100%" />
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&height=90&lines=Myself+Jiang!;Frontend+Developer;TypeScript+Builder;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+  <img src="https://raw.githubusercontent.com/kkkkkktom/kkkkkktom/output/github-snake.svg" alt="github contribution snake" width="100%" />
 </div>
 
 ---
